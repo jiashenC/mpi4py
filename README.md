@@ -1,5 +1,5 @@
-# mpi4py-quickstart
-### This quickstart aims to help setup distributed system on raspberry pi and laptops. 
+# mpi4py
+### This quickstart aims to setup distributed system on raspberry pi and laptops. 
 
 **denpendency**
 
